@@ -11,7 +11,7 @@ Requisitos: JDK 11, Git e IntelliJ IDEA (opcional).
 
 Clonar el repositorio:
 
-git clone git@github.com:TU-USUARIO/sistema-citas-clinica.git
+git clone git@github.com:AL07075185/sistema-citas-clinica.git
 cd sistema-citas-clinica
 
 Las instrucciones de compilación y empaquetado se documentarán en la entrega final.
@@ -24,7 +24,7 @@ citas. La información se almacena en archivos de texto plano.
 
 ## Créditos
 
-Desarrollado por Tu Nombre Completo para la asignatura Computación en Java
+Desarrollado por AL07075185 para la asignatura Computación en Java
 (LTTI1002), Universidad TecMilenio, 2026.
 
 ## Licencia
