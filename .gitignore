@@ -1,16 +1,21 @@
-# Archivos compilados de Java
+# Archivos compilados
 *.class
+*.jar
+target/
+build/
 
-# Archivos temporales de Vim
+# Archivos temporales
 *.swp
-*.swo
+*.tmp
+*~
 
-# Archivos de proyecto de IntelliJ IDEA
+# Archivos del IDE (NetBeans, IntelliJ IDEA, VS Code)
+nbproject/private/
+nbactions.xml
+nb-configuration.xml
 .idea/
 *.iml
-*.ipr
-*.iws
-out/
+.vscode/
 
 # Archivos del sistema operativo
 .DS_Store
